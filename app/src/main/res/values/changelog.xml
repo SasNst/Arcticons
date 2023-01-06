@@ -3,7 +3,7 @@
 
     <!-- Leave empty if you don't want to show changelog date -->
 
-    <string name="changelog_date">Nov 3, 2022</string>
+    <string name="changelog_date">Jan 5, 2023</string>
 
     <!-- Changelog support html formatting
     * <b> for Bold
@@ -11,9 +11,9 @@
     * <u> for Underline
     * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
-        <item>🥳  Arcticons turns 2 years old!</item>
-        <item>🎉 159 new or updated icons (thanks Kaiserdragon2, Quantenzitrone, JoelChrono12, Dgcampea, Aircan, PoorPocketsMcNewHold, 0slav, Ayecptn, KempfCreative, Petlyh, Tadas32, Lavin-Tom, Kaanelloed, NicoWeio , Ourslfs, Plasmid-zz, Basings, Akp 37!)</item>
-        <item>🔥 4852 icons in total</item>
+        <item>📱 Dashboard update (no more crashes (hopefully)) </item>
+        <item>110 new and updated icons! (thanks Zykure, Terumitzu, Kaiserdragon2, Lavin-Tom, Artsuaga, Bbbhltz, Dgcampbe, Kaanelloed)</item>
+        <item>🔥 5108 icons in total!</item>
     </string-array>
 
 </resources>
